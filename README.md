@@ -3,6 +3,24 @@
 Projeto desenvolvido para a disciplina de Data Science & Statistical Computing
 da FIAP.
 
+#Link Colab e Streamlit 
+
+https://colab.research.google.com/drive/1LSHjRN5aKHVYvdugIyWAaTEqFrQgYwGm?usp=sharing
+
+https://cp5datascience2026-2neg4vhdjyuavsdjaibctn.streamlit.app/
+
+# Alunos 
+
+Felipe Viana - RM 565341 
+
+Felipe Bonilha - RM 562356 
+
+Joan Ferreira - RM 562913 
+
+Levi de Jesus - RM 563279 
+
+Luigi Borghi - RM 563096
+
 ## Objetivo
 
 Investigar se informações acadêmicas e de engajamento podem ser utilizadas para
