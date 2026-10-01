@@ -5,7 +5,7 @@ da FIAP.
 
 # Link Colab e Streamlit 
 
-https://colab.research.google.com/drive/1LSHjRN5aKHVYvdugIyWAaTEqFrQgYwGm?usp=sharing
+(https://colab.research.google.com/drive/1LagGwWq6Jl4qkXIr8wWuDOD34gJwBY8u?usp=sharing)
 
 https://cp5datascience2026-2neg4vhdjyuavsdjaibctn.streamlit.app/
 
