@@ -3,7 +3,7 @@
 Projeto desenvolvido para a disciplina de Data Science & Statistical Computing
 da FIAP.
 
-#Link Colab e Streamlit 
+# Link Colab e Streamlit 
 
 https://colab.research.google.com/drive/1LSHjRN5aKHVYvdugIyWAaTEqFrQgYwGm?usp=sharing
 
